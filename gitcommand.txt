@@ -18,5 +18,11 @@ git remote set-url origin https://rightwaylearning@github.com/rightwaylearning/F
 
 // git push
 
+or git push -u origin master
+
 =======================================================================
 // git pull
+
+
+// access token 
+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
