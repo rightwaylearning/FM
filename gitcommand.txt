@@ -1,0 +1,21 @@
+git init
+
+// one time if u just strated working on git
+git config --globel user.email ""
+git config --globel user.name ""
+
+git add filename
+
+got commit -m ""
+
+// do only first time
+git remote add origin https://rightwaylearning@github.com/rightwaylearning/FM.git
+
+OR 
+
+git remote set-url origin https://rightwaylearning@github.com/rightwaylearning/FM.git
+
+// git push
+
+=======================================================================
+// git pull
