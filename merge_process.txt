@@ -1,0 +1,9 @@
+
+how to merger child branch into master branch form localhost/ git client
+
+>> first move into master barnch
+>> git checkout matser
+>> git merge child_branch_name
+>> due to the above command branch is merged in local repo not remote repo
+> so do push operation
+ >> git push origin matser
