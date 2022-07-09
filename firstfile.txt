@@ -1,3 +1,2 @@
 Hello Good morning
-Hi
-hello
+this is new line
