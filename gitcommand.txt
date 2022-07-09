@@ -1,9 +1,10 @@
 git init
 
+==============
 // one time if u just strated working on git
 git config --globel user.email ""
 git config --globel user.name ""
-
+==============================
 git add filename
 
 got commit -m ""
