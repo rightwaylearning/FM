@@ -26,3 +26,6 @@ or git push -u origin master
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 // access token 
 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
+
+
+git push repo_url branch_name
